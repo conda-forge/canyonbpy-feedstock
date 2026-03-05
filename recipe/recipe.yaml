@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.1"
+  version: "0.3.0"
 
 package:
   name: canyonbpy
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/canyonbpy/canyonbpy-${{ version }}.tar.gz
-  sha256: eb3b2718f59cdfda2979bc6087d9c09d094eb17d22e98bea537ed16cde8d73de
+  sha256: 76636ed97308a928aeef7baa26ced9bee2269dbc264df9ac0b0d69326565da40
 
 build:
   number: 0
